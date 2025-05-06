@@ -1,0 +1,11 @@
+/writable/logs/*
+.env
+vendor/
+node_modules/
+/public/build/*
+cache/*
+.DS_Store
+Thumbs.db
+*~
+.idea/
+.vscode/
